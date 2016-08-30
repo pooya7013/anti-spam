@@ -1,5 +1,5 @@
 --Begin supergrpup.lua
---Check members #Add supergroup
+--Check members #"فعال" supergroup
 local function check_member_super(cb_extra, success, result)
   local receiver = cb_extra.receiver
   local data = cb_extra.data
